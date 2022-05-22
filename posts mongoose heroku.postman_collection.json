@@ -102,7 +102,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"content\": \"Night\"\n}",
+					"raw": "",
 					"options": {
 						"raw": {
 							"language": "json"
