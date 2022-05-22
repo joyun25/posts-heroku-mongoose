@@ -12,14 +12,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "127.0.0.1:3005/posts",
+					"raw": "https://arcane-peak-30846.herokuapp.com/posts",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"arcane-peak-30846",
+						"herokuapp",
+						"com"
 					],
-					"port": "3005",
 					"path": [
 						"posts"
 					]
@@ -42,14 +41,13 @@
 					}
 				},
 				"url": {
-					"raw": "127.0.0.1:3005/posts",
+					"raw": "https://arcane-peak-30846.herokuapp.com/posts",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"arcane-peak-30846",
+						"herokuapp",
+						"com"
 					],
-					"port": "3005",
 					"path": [
 						"posts"
 					]
@@ -63,14 +61,13 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "127.0.0.1:3005/posts",
+					"raw": "https://arcane-peak-30846.herokuapp.com/posts",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"arcane-peak-30846",
+						"herokuapp",
+						"com"
 					],
-					"port": "3005",
 					"path": [
 						"posts"
 					]
@@ -84,17 +81,15 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "127.0.0.1:3005/posts/",
+					"raw": "https://arcane-peak-30846.herokuapp.com/posts",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"arcane-peak-30846",
+						"herokuapp",
+						"com"
 					],
-					"port": "3005",
 					"path": [
-						"posts",
-						""
+						"posts"
 					]
 				}
 			},
@@ -115,17 +110,15 @@
 					}
 				},
 				"url": {
-					"raw": "127.0.0.1:3005/posts/",
+					"raw": "https://arcane-peak-30846.herokuapp.com/posts",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"arcane-peak-30846",
+						"herokuapp",
+						"com"
 					],
-					"port": "3005",
 					"path": [
-						"posts",
-						""
+						"posts"
 					]
 				}
 			},
